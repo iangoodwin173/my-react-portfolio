@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.e0be299b.css",
+    "main.js": "/my-react-portfolio/static/js/main.f7654910.js",
+    "static/js/787.56d9acf9.chunk.js": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js",
+    "static/media/geopairing.png": "/my-react-portfolio/static/media/geopairing.ef4207d76e2ac635fd7a.png",
+    "static/media/coding-quiz.png": "/my-react-portfolio/static/media/coding-quiz.186e123e89921eeda0f1.png",
+    "static/media/workday-scheduler.png": "/my-react-portfolio/static/media/workday-scheduler.5feaad3b7da5810f2598.png",
+    "static/media/home-bg.jpg": "/my-react-portfolio/static/media/home-bg.1f13477ca035a9ac0776.jpg",
+    "static/media/Golf.ttf": "/my-react-portfolio/static/media/Golf.de9e5471d7dd4077602e.ttf",
+    "static/media/GolfBold.ttf": "/my-react-portfolio/static/media/GolfBold.c6857977356aa53feb20.ttf",
+    "static/media/GolfBoldItalic.ttf": "/my-react-portfolio/static/media/GolfBoldItalic.2592f9663002af47c813.ttf",
+    "static/media/GolfItalic.ttf": "/my-react-portfolio/static/media/GolfItalic.d9e60abc81efad8ceb14.ttf",
+    "static/media/pw-gen.png": "/my-react-portfolio/static/media/pw-gen.d3a98544f6eea66b190a.png",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.e0be299b.css.map": "/my-react-portfolio/static/css/main.e0be299b.css.map",
+    "main.f7654910.js.map": "/my-react-portfolio/static/js/main.f7654910.js.map",
+    "787.56d9acf9.chunk.js.map": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0be299b.css",
+    "static/js/main.f7654910.js"
+  ]
+}
