@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import '../style/imageSlider.css';
 
+
 class ImageSlider extends Component {
   state = {
     currentIndex: 0,

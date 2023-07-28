@@ -8,6 +8,7 @@
     border-radius: 5px;
   }
   
+  
   /* Set a fixed width for the .image-container to keep the images centered */
   .image-container {
     display: flex;

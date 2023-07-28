@@ -8,7 +8,6 @@ import '../style/imageSlider.css';
 
 
 
-
 function Projects() {
 
     const [isMounted, setIsMounted] = useState(false);

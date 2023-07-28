@@ -3,7 +3,6 @@ import '../style/about.css';
 
 
 
-
 function About() {
 
     const [isMounted, setIsMounted] = useState(false);

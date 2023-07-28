@@ -2,6 +2,7 @@ import React from "react";
 import '../style/nav.css';
 import {Link} from 'react-router-dom';
 
+
 function NavTabs () {
     return (
         <nav className='nav nav-tabs'>

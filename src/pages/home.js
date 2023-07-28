@@ -1,4 +1,3 @@
-
 import '../App.css';
 import '../style/home.css';
 import React, { useEffect, useState } from 'react';

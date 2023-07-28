@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import '../style/contact.css';
 
 
+
 const ContactForm = () => {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
