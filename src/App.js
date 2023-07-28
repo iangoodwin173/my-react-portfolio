@@ -30,13 +30,14 @@ function App() {
 
   return (
     <Router>
+      
      <div className={`fade-in ${isMounted ? 'visible' : ''}`}>
       <header className="App-header">
       <Switch>
             <Route exact path="/" component={Home} />
-            <Route exact path="/projects" component={Projects} />
-            <Route exact path="/contact" component={Contact} />
-            <Route exact path="/about" component={About} />
+            <Route path="/projects" component={Projects} />
+            <Route path="/contact" component={Contact} />
+            <Route path="/about" component={About} />
             
       </Switch>
         <NavTabs></NavTabs>
