@@ -33,7 +33,7 @@ function App() {
      <div className={`fade-in ${isMounted ? 'visible' : ''}`}>
       <header className="App-header">
       <Switch>
-            <Route exact path="/" component={Home} />
+            <Route exact path="/home" component={Home} />
             <Route path="/projects" component={Projects} />
             <Route path="/contact" component={Contact} />
             <Route path="/about" component={About} />
