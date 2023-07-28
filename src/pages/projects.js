@@ -17,7 +17,7 @@ function Projects() {
     // Delay setting isMounted to true to allow the component to render first
     const timeout = setTimeout(() => {
       setIsMounted(true);
-    }, 200);
+    }, 199);
 
     // Clear the timeout to avoid memory leaks
     return () => clearTimeout(timeout);
