@@ -8,7 +8,7 @@ function NavTabs () {
         <ul className='navbar-links'>
            
           <li className="nav-item">
-            <Link to="/">Home</Link>
+            <Link to="/home">Home</Link>
           </li>
           <li className="nav-item">
             <Link to="/about">About Me</Link>
