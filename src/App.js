@@ -9,11 +9,6 @@ import Contact from './pages/contact';
 import './fonts.css';
 
 
-
-
-
-
-
 function App() {
 
   const [isMounted, setIsMounted] = useState(false);
